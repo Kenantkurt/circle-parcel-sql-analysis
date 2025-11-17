@@ -51,6 +51,21 @@ Both tables were enriched with delivery status and KPI calculations.
 
 ## 📁 Repository Structure
 
+**Project Root**
+- `README.md` — Full project explanation and results  
+- `sql/` — All SQL scripts used for data exploration, transformation, KPI calculation and analysis
+
+**sql/**
+- `01_data_exploration.sql` — Initial exploration of parcel tables  
+- `02_status_creation.sql` — Creation of parcel delivery status using CASE  
+- `03_date_formatting.sql` — Parsing and formatting date fields  
+- `04_kpi_calculation.sql` — Calculation of shipping, delivery and total times  
+- `05_global_kpi.sql` — Global KPI analysis  
+- `06_transporter_kpi.sql` — Transporter-level performance comparison  
+- `07_priority_kpi.sql` — Priority-level KPI comparison & ratio analysis  
+- `08_monthly_kpi.sql` — Monthly trend analysis  
+- `09_delay_analysis.sql` — Delay rate evaluation  
+
 
 ---
 
