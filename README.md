@@ -139,5 +139,11 @@ warehouse processing and transporter selection. High-priority shipments meet exp
 parcels experience the most significant delays. Strengthening warehouse SLAs and optimizing transporter allocation 
 would meaningfully reduce total delivery times and improve customer satisfaction.
 
+---
+
+## 🏷 Tags
+`SQL` · `BigQuery` · `Google Sheets` · `Data Cleaning` · `Data Modeling` · `Logistics Analytics` · `Delivery Performance` · `E-commerce Operations` · `KPI Analysis` · `Parcel Tracking`
+
+
 
 
