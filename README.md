@@ -1,4 +1,8 @@
 # Circle Parcel Delivery Analysis – SQL & BigQuery Project
+![SQL](https://img.shields.io/badge/SQL-BigQuery-blue)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-black)
+![Data](https://img.shields.io/badge/Data-Cleaned-success)
 
 This project analyzes the parcel delivery performance of **Circle**, a French eco-responsible sportswear company.  
 The goal is to evaluate logistics efficiency, shipping operations, delivery performance, and potential delays using SQL queries executed in **Google BigQuery**.
